@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32595'
     url: http://www.gutenberg.org/2009/agents/32595
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27286#Gas-and-Oil-Engines-Simply-ExplainedAn-Elementary-Instruction-Book-for-Amateurs-and-Engine-At_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2008-11-17'
 gutenberg_type: Text
